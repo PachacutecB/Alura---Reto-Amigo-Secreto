@@ -11,10 +11,11 @@ La idea es bastante simple, agregar amigos y sortearlos.
 Estructura del Proyecto 📂
 
 Alura---Reto-Amigo-Secreto/
-├── index.html          # Archivo principal
-├── style.css           # Hoja de estilos
-├── app.js              # Lógica de la aplicación
-├── assets/             # Carpeta de recursos
-│   └── amigo-secreto.png
-│   └── play_circle_outline.png
-└── README.md           # Este archivo
+
+	├── index.html          # Archivo principal
+	├── style.css           # Hoja de estilos
+	├── app.js              # Lógica de la aplicación
+	├── assets/             # Carpeta de recursos
+	│   └── amigo-secreto.png
+	│   └── play_circle_outline.png
+	└── README.md           # Este archivo
